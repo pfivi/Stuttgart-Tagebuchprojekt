@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  
-    <teiHeader>
+  <TEI>
+   <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="main">Die antarktischen Eisverhältnisse : Auszug aus meinem Tagebuch der Südpolarreise der "Belgica" 1898-1899</title>
@@ -166,6 +167,7 @@ veränderter Diabas ist.)<lb/>
 Den Schnee zu untersuchen hatte ich keine Zeit; es dunkelte bereits, und wir mußten<lb/>
 an Bord zurück.<lb/></p>                          
                    </div>
+                         </div>
            </body>
     </text>
 </TEI>
