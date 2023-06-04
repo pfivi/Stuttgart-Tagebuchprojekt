@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Die antarktischen Eisverhältnisse : Auszug aus meinem Tagebuch der Südpolarreise der "Belgica" 1898-1899</title>
+                <author>
+                    <persName ref="http://d-nb.info/gnd/12279804X">
+                        <surname>Arctowski</surname>
+                        <forename>Henryk</forename>
+                    </persName>
+                </author>
+                <respStmt>
+                    <persName>
+                        <surname>Babilon</surname>
+                        <forename>Vera</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Bearbeitung der digitalen Edition.</note>
+                        <date type="importDTA">2023-05-08T13:38:54Z</date>
+                    </resp>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+            <extent>
+                <measure type="images">126</measure>
+                <measure type="tokens"/>
+                <measure type="types"/>
+                <measure type="characters"/>
+            </extent>
+            <publicationStmt>
+                <publisher>
+                    Hochschule der Medien Stuttgart
+                </publisher>
+                    <publisher>
+                        Thüringische Universitäts- und Landesbibliothek Jena
+                    </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="MS"/>
+                <biblFull>
+                    <titleStmt>
+                        <title level="m" type="main">Die antarktischen Eisverhältnisse: Auszug aus meinem Tagebuch der Südpolarreise der "Belgica" 1898-1899</title>
+                        <author>
+                            <persName ref="http://d-nb.info/gnd/12279804X">
+                                <surname>Arctowski</surname>
+                                <forename>Henryk</forename>
+                            </persName>
+                        </author>
+                        <editor>
+                            <persName ref="http://d-nb.info/gnd/132560585">
+                                <surname>Perthes</surname>
+                                <forename>Bernhard</forename>
+                            </persName>
+                        </editor>
+                    </titleStmt>
+                    <editionStmt>
+                        <edition n="1"/>
+                    </editionStmt>
+                    <extent>
+                        <measure type="pages">IV, 121 S.</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher><name>Perthes Gotha</name></publisher>
+                        <pubPlace>Gotha</pubPlace>
+                        <date type="publication">1903</date>
+                        <date type="creation">1898-1899</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="s" type="main">A. Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt / Ergänzungsheft</title>
+                        <biblScope unit="volume">144</biblScope>
+                    </seriesStmt>
+                </biblFull>
+                <msDesc xml:id="imagesource-1" corresp="#availability-imagesource-1">
+                    <msIdentifier>
+                        <repository>Thüringer Universitäts-und Landesbibliothek</repository>
+                        <idno>
+                            <idno type="shelfmark"> 4 Geogr.I,63/1 :30.7</idno>
+                            <idno type="URLCatalogue">https://kxp.k10plus.de/DB=2.1/PPNSET?PPN=184397103</idno>
+                            <idno type="URLImages">https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00029505</idno>
+                            <idno type="URN">https://nbn-resolving.org/urn:nbn:de:urmel-f02861e2-7dc3-495b-8f37-62a980aaebd52</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    Zeilenumbrüche nach Original
+                    Auszeichnungen von Personen, Orten
+                    Kommentierung Registereinträge
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Wissenschaft</classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="www.url.de"/>
+                        <div type="chapter" n="001">
+                    <div type="diaryEntry" n="1">
+                        <p>Sonntag, den 23. Januar. Der Himmel klärt sich auf. 10 Uhr morgens bilden sich<lb/>
+Öffnungen in den Stratuswolken am Horizont, der Gesichtskreis dehnt sich weiter aus, und<lb/>
+die Sonne durchbricht zeitweise die Alto-Stratusschicht, die uns den Himmel verdeckt. Wir<lb/>
+befinden uns noch nahe bei der <place>Low-Insel</place>. Wir sehen sie heute viel besser; sie erscheint<lb/>
+niedrig. In ihrer Umgebung sind viele Felsen und schroffe, ganz kahle Inselchen. Die Insel<lb/>
+liegt leewärts, und der Ammoniakgeruch des Guanos verpestet die Luft. Der Kommandant<lb/>
+läßt den Kurs nach OSO richten, um vorwärts zu kommen. Der schöne Eisberg, den wir<lb/>
+gestem abend bemerkt hatten, ist wieder in Sicht, und wir kommen nahe an ihm vorbei.<lb/>
+Er hat eine Höhe von wenigstens 40 m und ist über 250 m lang. Obenstehende Figuren<lb/>
+zeigen ihn von beiden Seiten. Die Kuppe des Hügels, der sich auf seiner Oberfläche erhebt,<lb/>
+besteht aus kleinen parallelen und wagrechten Schneeschichten. Nur am Fuße der Eismauer<lb/>
+zeigt der Eisberg eine blau-grüne, sehr matte Färbung; in der Höhlung hingegen ist das<lb/>
+Blau intensiv (Forelsche Farbenskala Nr. 3).<lb/>
+Mit unserer Entfernung von der Insel wird das Treibeis immer seltener. Windstöße<lb/>
+setzen wieder ein, Nebel und Regen. Gegen 3 Uhr kommen neue Eismassen in Sicht. Im<lb/>
+allgemeinen sind diese Eisberge tafelförmig; manche haben auch die Gestalt isolierter Berg-<lb/>
+spitzen, ebenso sieht man Tafeln, die sich nach einer Seite neigen, mit deutlich sichtbarer<lb/>
+Streifung, die parallel zur Schneedecke verläuft.<lb/>
+                       </p>
+            <pb facs="www.url.de"/>
+                        <p>Allmählich klärt es sich von neuem auf, und man bemerkt Land. Eine Reihe von<lb/>
+Inseln und Felsen, dann erscheinen ausgedehntere Küsten ... Fortwährend ist man auf<lb/>
+den günstigen Augenblick gespannt, wo der Horizont etwas frei wird. 7 Uhr abends kommen<lb/>
+wir an einem Vorgebirge vorbei, das wahrscheinlich <place>Cap Cockburn</place> ist.<lb/>
+Wir kommen immer noch vorwärts. Die Karten sind jetzt nicht mehr zu benutzen,<lb/>
+denn sie stimmen nicht mehr mit dem, was man sieht. <name>Lecointe</name> macht fortwährend Auf-<lb/>
+nahmen, nach denen er eine annähernd richtige Karte wird entwerfen können. 10 Uhr<lb/>
+abends scheint uns Land die Fahrt nach S zu versperren; hohe Berge ragen am Horizont<lb/>
+empor und kleine Inseln und Klippen liegen zerstreut in der großen Bucht, an deren Eingang<lb/>
+wir uns jetzt befinden. Mancherorts sind freie Bergrücken, und zahlreiche spitze Felsen<lb/>
+und Bergspitzen durchbrechen die Eisschicht, die das Land bedeckt. Es wird also möglich<lb/>
+sein, den geologischen Bau dieser Gebirge zu erkennen.<lb/>
+Um 11 ½ Uhr sind wir nahe bei einer kleinen Insel. <name>Danco</name>, <name>de Gerlache</name>, <name>Racovitza</name>,<lb/>
+<name>Cook</name> und ich steigen in ein Boot. Das Meer ist etwas unruhig, und die Wogen brechen<lb/>
+sich an dem Felsen. Wir betreten zum erstenmal antarktisches Land. Ein guter Teil der<lb/>
+Insel liegt offen da. Der obere Teil sieht aus wie ein Lavastrom von prismatischer Struktur,<lb/>
+tiefer unten ist der Fels durchweg zerklüftet; er scheint in große übereinanderliegende<lb/>
+Blöcke mit ebener Oberfläche zu zerfallen.<lb/>
+Es ist vulkanisches Gestein, sehr dicht, sehr hart, aber leicht brüchig, und gibt, wenn<lb/>
+man mit dem Hammer daraufschlägt, einen hellen Klang von sich. Basalt ist es nicht.<lb/>
+Das Gestein ist krystallinisch von sehr feinkörniger Struktur; seine Farbe ist ein ganz dunkles<lb/>
+Grün. (Eine mikroskopische Untersuchung von <name>Prof. A.-F. Renard</name> hat ergeben, daß es<lb/>
+veränderter Diabas ist.)<lb/>
+Den Schnee zu untersuchen hatte ich keine Zeit; es dunkelte bereits, und wir mußten<lb/>
+an Bord zurück.<lb/></p>                          
+                   </div>
+                         </div>
+           </body>
+    </text>
+</TEI>
